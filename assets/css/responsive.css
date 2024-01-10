@@ -1,0 +1,50 @@
+
+@media  screen and (max-width: 600px) {
+    .uk-main-slider{
+        padding: 0px 35px !important;
+    }
+    .uk-blue-button {
+        font-size: 14px ;
+        padding: 12px 20px;
+    }
+    .uk-banner-paragraph {
+        font-size: 15px !important;
+    }
+    .uk-main-slider h5 {
+        line-height: 50px;
+        font-size: 45px;
+       
+    }
+}
+@media  screen and (max-width: 420px) {
+    .uk-logo{
+        margin-right: 0!important;
+    }
+    .uk-logo img{
+        height:64px !important;
+    }
+    .uk-navbar-left{
+        gap: 0px;
+    }
+    .nav-primary-button{
+        font-size: 15px;
+        padding: 6px 17px
+    }
+   
+}
+@media  screen and (max-width: 320px) {
+    .uk-logo img{
+        height:42px !important;
+    }
+    .nav-primary-button{
+        font-size: 10px;
+    }
+    .uk-main-slider h5 {
+        line-height: 40px;
+        font-size: 38px;
+    }
+    .nav-primary-button{
+        font-size: 13px;
+    }
+    
+}
