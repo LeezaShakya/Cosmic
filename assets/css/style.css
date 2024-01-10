@@ -4,7 +4,7 @@
 :root {
     --primary: #4972A8;
     --secondary: #D25636;
-    --black:#000000; 
+    --black:#000000c4; 
     --grey: #414040;
 }
 body{
@@ -13,6 +13,8 @@ body{
 
 li{
     list-style: none;
+a:hover{
+    text-decoration: none;
 }
 /* SMALL NAV */
 .uk-small-nav{
@@ -25,6 +27,13 @@ li{
 .uk-small-nav-icon i{
     margin-right: 10px;
     font-size: 20px !important;
+}
+.uk-small-nav-icon-footer i{
+    margin-right: 18px;
+    font-size: 25px !important;
+    margin-top: 30px;
+    color: white;
+    
 }
 /* large nav */
 .uk-navbar-container{
@@ -57,7 +66,7 @@ nav.stroke ul li a:hover:after {
     box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
 }
 .uk-drop.uk-open{
-    top:81px !important;
+    top:77px !important;
     box-shadow: none !important;
     background: var(--primary);
 }
@@ -102,10 +111,11 @@ nav.stroke ul li a:hover:after {
 
 .uk-section-padding{
     padding: 100px 70px;
+    
   }
 /* large nav end */
 
-  /* logo */
+/* logo */
 .uk-logo img{
     height: 80px;
     width: 100%;
@@ -129,7 +139,28 @@ nav.stroke ul li a:hover:after {
     border-radius: 30px;
     padding: 15px 25px;
 }
-
+.servives-button{
+    color: var(--secondary) !important;
+    font-size:17px !important;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.text-light{
+    color: white !important;
+}
+.text-light a{
+    color: white !important;
+}
+.uk-button{
+    padding: 7px 40px;
+    display: inline-block !important;
+    font-weight: 600;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+.uk-primary{
+    background-color: var(--primary);
+}
 
 .uk-main-slider{
     height:100vh;
@@ -137,23 +168,27 @@ nav.stroke ul li a:hover:after {
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 100px;
 }
 .uk-main-slider-img img{
     width: 100%;
     object-fit: cover;
     height:100vh;
 }
-.uk-main-slider h1{
+.uk-main-slider h5{
     font-family: 'Outfit', sans-serif !important; 
     line-height: 66px;
     font-size: 61px;
     color: white;
     font-weight: bold;
 }
-.uk-banner-paragraph p{
-    color: white;
+.uk-banner-paragraph{
+    color: white !important;
     font-family: 'Poppins', sans-serif;
-    font-size: 18px;
+    font-size: 18px !important;
 }
 .section-padding-e{
     padding: 100px 0 50px!important;
@@ -173,6 +208,20 @@ nav.stroke ul li a:hover:after {
 .pr-50{
     padding-right: 50px !important;
 }
+.grey-bg{
+    background-image: url('../img/grey-bg.png');
+    background-color: #F1F1F1;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.black-bg{
+    background-image: url('../img/pattern-bg.png');
+    background-color: #000;
+    background-repeat:repeat-x;
+    background-position: bottom top;
+    background-attachment: fixed;
+}
+
 /* font */
 h1{
     font-family: 'Outfit', sans-serif !important; 
@@ -197,10 +246,10 @@ h2{
     font-weight: bold;
     margin:0 0 15px 0 ;
 }
-h3{
+h3 , h3 a{
     font-family: 'Outfit', sans-serif !important; 
-    font-size: 24px;
-    color: var(--black);
+    font-size: 22px;
+    color: var(--black) !important;
     font-weight: bold;
     margin:0 0 15px 0 ;
 }
@@ -345,7 +394,6 @@ ul{
 .uk-table-res{
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-
 }
 @media (max-width: 960px){
     .section-padding-e{
@@ -360,4 +408,31 @@ ul{
     .pl-40{
         padding-left: 20px !important;
     }
+  }
+.section-card{
+    border-top: 7px solid var(--black);
+    padding: 25px 0;
+}
+.news-block img{
+    height: 235px !important;
+    width: 100%;
+    object-fit: cover;
+}
+.news-content{
+    padding: 15px 15px 10px 15px;
+    border: 1px solid #6b6b6b36;
+    border-top: none;
+}
+.uk-content-center{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.uk-footer{
+    background-color: #343434;
+    color: white!important;
+background-image: url("https://www.transparenttextures.com/patterns/dark-denim-3.png");
+}
+.uk-footer ul li p{
+    margin: 8px 0 !important;
 }

@@ -6,6 +6,7 @@
     <title>Cosmic Insurance</title>
     <link rel="stylesheet" href="assets/css/uikit.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
     <script src="assets/js/jquery-3.3.1.min.js"></script>
     <script src="assets/js/uikit.min.js"></script>
     <script src="assets/js/uikit-icons.min.js"></script>
@@ -20,11 +21,11 @@
                <ul class="small-nav-font uk-margin-remove" style="color:white;" uk-grid>
                   <li class="uk-width-2-3 uk-flex " style="padding-top: 10px; padding-bottom:6px;">
                      <div class="uk-margin-left">
-                        <p class="uk-margin-remove "><i class="fa-solid fa-envelope uk-margin-small-right" ></i>infocosmicinsurance@gmail.com</p>
+                        <p class="uk-margin-remove " style="color:white!important;"><i class="fa-solid fa-envelope uk-margin-small-right" ></i>infocosmicinsurance@gmail.com</p>
                      </div>
                      <div class="uk-margin-small-left uk-margin-small-right"> | </div>
                      <div>
-                        <p class="uk-margin-remove "><i class="fa-solid fa-phone-volume uk-margin-small-right"></i> (+977) 5624 8956</p>
+                        <p class="uk-margin-remove " style="color:white!important;"><i class="fa-solid fa-phone-volume uk-margin-small-right"></i> (+977) 5624 8956</p>
                      </div>
                   </li>
                   <li class="  uk-width-1-3" style="padding:10px 50px 10px 0px;">
@@ -40,7 +41,7 @@
             <!-- end of top nav -->
             <!-- main  header-->
             <div>
-               <nav class="uk-navbar-container  uk-sticky uk-sticky-fixed stroke shadow-lg"  uk-sticky="start: 100; animation: uk-animation-slide-top; sel-target: uk-navbar-container ; cls-active: uk-navbar-sticky scroll-nav; cls-inactive: uk-navbar-transparent ;" style="height:78px!important;">
+               <nav class="uk-navbar-container  uk-sticky uk-sticky-fixed stroke shadow-lg"  uk-sticky="start: 100; animation: uk-animation-slide-top; sel-target: uk-navbar-container ; cls-active: uk-navbar-sticky scroll-nav; cls-inactive: uk-navbar-transparent ;" >
                   <div class="uk-container uk-margin-small" >
                      <div uk-navbar=" dropbar: true ; target: !.uk-container-navbar; align: center; target-x: !.uk-navbar-container">
                         <div class="uk-navbar-left">
