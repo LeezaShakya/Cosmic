@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;300;500;600;700;800;900&display=swap');
+
+:root {
+    --primary: #4972A8;
+    --secondary: #D25636;
+    --black:#000000; 
+    --grey: #414040;
+}
+/* SMALL NAV */
+.uk-small-nav{
+    z-index:999; 
+    position: relative; 
+    background-color: var(--black) !important; 
+    font-size:14px !important;
+    font-family: 'Poppins', sans-serif;
+}
+.uk-small-nav-icon i{
+    margin-right: 10px;
+    font-size: 20px !important;
+}
+/* large nav */
+.uk-navbar-container{
+    z-index: 999 !important;
+    background-color: white;
+}
+.uk-dropnav-dropbar{
+    background-color: var(--primary) !important; 
+}
+nav.stroke ul li a {
+  position: relative;
+}
+nav.stroke ul li a:after {
+  position: absolute;
+  top: -5px;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 0%;
+  content: '.';
+  color: transparent;
+  background: var(--primary);
+  height: 3px;
+  transition: all 0.5s ease-in-out;
+}
+nav.stroke ul li a:hover:after {
+  width: 100%;
+}
+.shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
+.uk-drop.uk-open{
+    top:81px !important;
+    box-shadow: none !important;
+    background: var(--primary);
+}
+ .uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle {
+    min-height: 70px !important;
+}
+.uk-navbar-nav .uk-navbar-dropdown li a:hover, .uk-dropdown-nav li a:hover ,.uk-nav-sub li a:hover{
+    transform: translateX(6px);
+    transition:.3s;
+}
+@media (min-width: 960px){
+.uk-navbar-nav {
+    gap: 22px !important;
+}
+}
+/* nav-font */
+.uk-navbar-nav li a{
+    font-family: 'Outfit', sans-serif !important;
+    font-size: 15px !important;
+    color: var(--black) !important;
+    text-transform: capitalize ;
+    font-weight: 500;
+}
+.uk-navbar-nav li a:hover{
+    color: var(--primary)!important;
+}
+.uk-navbar-dropdown-nav li a, .uk-dropdown-nav li a {
+    margin-bottom:5px;
+    color: white !important;
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 15px !important;
+    font-weight: 500;
+} 
+.uk-navbar-dropdown-nav li a:hover, .uk-dropdown-nav li a:hover{
+    color: white !important;
+}
+.offcanvas-font li a{
+    color:var(--primary) !important;
+    font-family: 'Barlow', sans-serif !important;
+    font-size:15px;
+}
+
+.uk-section-padding{
+    padding: 100px 70px;
+  }
+/* large nav end */
+
+  /* logo */
+.uk-logo img{
+    height: 80px;
+    width: 100%;
+}
+/* button */
+.nav-primary-button{
+    background-color: var(--primary);
+    border: none;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    border-radius: 30px;
+    padding: 10px 20px;
+}
+.uk-blue-button{
+    background-color: var(--primary);
+    border: none;
+    color: white;
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    border-radius: 30px;
+    padding: 15px 25px;
+}
+
+
+.uk-main-slider{
+    height:100vh;
+    background-image: url('../img/black-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.uk-main-slider-img img{
+    width: 100%;
+    object-fit: cover;
+    height:100vh;
+}
+.uk-main-slider h1{
+    font-family: 'Outfit', sans-serif !important; 
+    line-height: 66px;
+    font-size: 61px;
+    color: white;
+    font-weight: bold;
+}
+.uk-banner-paragraph p{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+.section-padding{
+    padding: 50px 0 !important;
+}
+/* font */
+h1{
+    font-family: 'Outfit', sans-serif !important; 
+    font-size: 16px;
+    color: var(--secondary);
+    font-weight: bold;
+    margin: 0;
+}
+h1:before {
+    content: "";
+    display: inline-block;
+    width: 42px;
+    height: 2.5px;
+    vertical-align: middle;
+    background-color: var(--secondary);
+    margin-right: 5px;
+}
+h2{
+    font-family: 'Outfit', sans-serif !important; 
+    font-size: 30px;
+    color: var(--black);
+    font-weight: bold;
+    margin:0 0 15px 0 ;
+}
+h3{
+    font-family: 'Outfit', sans-serif !important; 
+    font-size: 24px;
+    color: var(--black);
+    font-weight: bold;
+    margin:0 0 15px 0 ;
+}
+p{
+    font-size:14px !important;
+    font-family: 'Poppins', sans-serif;
+    color: var(--grey);
+}
+
