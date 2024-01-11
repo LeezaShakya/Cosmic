@@ -6,10 +6,10 @@
                <img src="assets/img/logo.jpg" alt="" style="height:80px;">
             </div>
             <div class=" uk-small-nav-icon-footer">
-                  <i class="fa-brands fa-facebook" ></i>
-                  <i class="fa-brands fa-twitter"></i>
-                  <i class="fa-brands fa-instagram"></i>
-                  <i class="fa-brands fa-linkedin"></i>
+                  <a href="#"><i class="fa-brands fa-facebook" ></i></a>
+                  <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                  <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                  <a href="#"><i class="fa-brands fa-linkedin"></i></a>
             </div>
          </li>
          <li class="uk-width-expand@m">
@@ -17,18 +17,18 @@
                <div>
                   <h3 class="text-light">Insurance</h3>
                   <hr>
-                  <p class="text-light"><a href="">Personal Insurance</a></p>
-                  <p class="text-light"><a href="">Commercial Insurance</a></p>
-                  <p class="text-light"><a href="">TLC Insurance</a></p>
-                  <p class="text-light"><a href="">Other Insurance</a></p>
+                  <p class="text-light"><a href="service-inner.php">Personal Insurance</a></p>
+                  <p class="text-light"><a href="service-inner.php">Commercial Insurance</a></p>
+                  <p class="text-light"><a href="service-inner.php">TLC Insurance</a></p>
+                  <p class="text-light"><a href="service-inner.php">Other Insurance</a></p>
                </div>
                <div>
                   <h3 class="text-light">Links</h3>
                   <hr>
-                  <p class="text-light"><a href="">Home</a></p>
-                  <p class="text-light"><a href="">Insurance</a></p>
-                  <p class="text-light"><a href="">About</a></p>
-                  <p class="text-light"><a href="">Contact</a></p>
+                  <p class="text-light"><a href="index.php">Home</a></p>
+                  <p class="text-light"><a href="about.php">About</a></p>
+                  <p class="text-light"><a href="news.php">News & Events</a></p>
+                  <p class="text-light"><a href="contact.php">Contact</a></p>
                </div>
          </div>
          </li>
@@ -71,7 +71,7 @@
                </ul>
             </li>
             <li>
-               <a href="about.php">News</a>
+               <a href="news.php">News</a>
             </li>
             <li>
                <a href="contact.php">Contact</a>

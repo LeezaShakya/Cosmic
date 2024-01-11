@@ -28,11 +28,12 @@ a:hover {
   font-size: 14px !important;
   font-family: "Poppins", sans-serif;
 }
-.uk-small-nav-icon i {
+.uk-small-nav-icon  a i{
   margin-right: 10px;
   font-size: 20px !important;
+  color: white;
 }
-.uk-small-nav-icon-footer i {
+.uk-small-nav-icon-footer a i {
   margin-right: 18px;
   font-size: 25px !important;
   margin-top: 30px;
@@ -506,6 +507,7 @@ ul {
   background-color: #343434;
   color: white !important;
   background-image: url("https://www.transparenttextures.com/patterns/dark-denim-3.png");
+  margin-bottom: 0!important;
 }
 .uk-footer ul li p {
   margin: 8px 0 !important;

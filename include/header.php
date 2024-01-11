@@ -30,10 +30,10 @@
                   </li>
                   <li class="  uk-width-1-3" style="padding:10px 50px 10px 0px;">
                      <div class="uk-float-right uk-small-nav-icon">
-                        <i class="fa-brands fa-facebook" ></i>
-                        <i class="fa-brands fa-twitter"></i>
-                        <i class="fa-brands fa-instagram"></i>
-                        <i class="fa-brands fa-linkedin"></i>
+                        <a href="#"><i class="fa-brands fa-facebook" ></i></a>
+                        <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                        <a href="#"><i class="fa-brands fa-linkedin"></i></a>
                      </div>
                   </li>
                </ul>

@@ -10,68 +10,70 @@
 </section>
 <section class="uk-section section-padding-page">
     <div class="uk-container uk-about">
-        <ul class=" uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m   uk-margin-large-top" uk-grid uk-height-match=".news-block"  >
-            <li>
-                <div class="news-block uk-text-left ">
-                    <img src="assets/img/news1.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+        <div class="uk-padding-small">
+            <ul class=" uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m   uk-margin-large-top" uk-grid uk-height-match=".news-block"  >
+                <li>
+                    <div class="news-block uk-text-left ">
+                        <img src="assets/img/news1.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-            <li>
-                <div class="news-block uk-text-left ">
-                    <img src="assets/img/news2.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                </li>
+                <li>
+                    <div class="news-block uk-text-left ">
+                        <img src="assets/img/news2.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-            <li>
-                <div class="news-block uk-text-left ">
-                <img src="assets/img/news3.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                </li>
+                <li>
+                    <div class="news-block uk-text-left ">
+                    <img src="assets/img/news3.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-            <li>
-                <div class="news-block uk-text-left ">
-                    <img src="assets/img/news1.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                </li>
+                <li>
+                    <div class="news-block uk-text-left ">
+                        <img src="assets/img/news1.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-            <li>
-                <div class="news-block uk-text-left ">
-                    <img src="assets/img/news2.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                </li>
+                <li>
+                    <div class="news-block uk-text-left ">
+                        <img src="assets/img/news2.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-            <li>
-                <div class="news-block uk-text-left ">
-                <img src="assets/img/news3.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                </li>
+                <li>
+                    <div class="news-block uk-text-left ">
+                    <img src="assets/img/news3.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-        </ul>
+                </li>
+            </ul>
+        </div>
     </div>
     <div class="uk-container uk-margin-large-top uk-margin-large-bottom">
         <ul class="uk-pagination uk-flex-center" uk-margin>

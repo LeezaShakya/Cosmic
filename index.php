@@ -8,10 +8,10 @@
                         <h5 uk-slideshow-parallax="x: 100,-100">We Are Cosmic Insurance Brokerage</h5>
                         <p class="uk-margin-large-bottom uk-banner-paragraph" uk-slideshow-parallax="x: 100,-100">Protecting dreams, securing futures – your trusted partner in every step, always there when needed</p>
                         <div>
-                            <a href="#" class="uk-blue-button" >LEARN MORE</a>
+                            <a href="about.php" class="uk-blue-button" >LEARN MORE</a>
                         </div>
                     </div>
-                    <div class="uk-main-slider-img uk-padding-remove uk-visible@l">
+                    <div class="uk-main-slider-img uk-padding-remove uk-visible@m">
                         <img src="assets/img/banner.png" alt="">
                     </div>
                 </div>
@@ -22,10 +22,10 @@
                         <h5 uk-slideshow-parallax="x: 100,-100">We Are Cosmic Insurance Brokerage</h5>
                         <p class="uk-margin-large-bottom uk-banner-paragraph" uk-slideshow-parallax="x: 100,-100">Protecting dreams, securing futures – your trusted partner in every step, always there when needed</p>
                         <div>
-                            <a href="#" class="uk-blue-button" >LEARN MORE</a>
+                            <a href="about.php" class="uk-blue-button" >LEARN MORE</a>
                       </div>
                     </div>
-                    <div class="uk-main-slider-img uk-padding-remove uk-visible@l">
+                    <div class="uk-main-slider-img uk-padding-remove uk-visible@m">
                         <img src="assets/img/about.png" alt="">
                     </div>
                 </div>
@@ -36,10 +36,10 @@
                         <h5 uk-slideshow-parallax="x: 100,-100">We Are Cosmic Insurance Brokerage</h5>
                         <p class="uk-margin-large-bottom uk-banner-paragraph" uk-slideshow-parallax="x: 100,-100">Protecting dreams, securing futures – your trusted partner in every step, always there when needed</p>
                         <div>
-                            <a href="#" class="uk-blue-button" >LEARN MORE</a>
+                            <a href="about.php" class="uk-blue-button" >LEARN MORE</a>
                         </div>
                     </div>
-                    <div class="uk-main-slider-img uk-padding-remove uk-visible@l">
+                    <div class="uk-main-slider-img uk-padding-remove uk-visible@m">
                         <img src="assets/img/banner.png" alt="">
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                     <img src="assets/img/about.png" class="uk-image" alt="">
                 </div>
                 <div class="uk-about-block uk-light uk-text-center">
-                    <h3 class="uk-margin-remove">5+ Years</h3>
+                    <h3 class="uk-margin-remove text-light">5+ Years</h3>
                     <p class="uk-margin-remove text-light uk-text-uppercase">Working Experience</p>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                 </ul>
                 <div>
 
-                    <a href="#" class="uk-button uk-primary text-light ">LEARN MORE</a>
+                    <a href="about.php" class="uk-button uk-primary text-light ">LEARN MORE</a>
                 </div>
             </div>
         </div>
@@ -82,72 +82,70 @@
 </section>
 
 <!-- SERVICES SECTION -->
-<section class="uk-section section-padding-page grey-bg">
+<section class="uk-section section-padding grey-bg">
    <div class="uk-container uk-text-center">
       <h1>Services</h1>
       <h2>What We Are Offering</h2>
-      <div class="uk-slider-container-offset" uk-slider>
-         <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
-            <ul class="uk-slider-items uk-child-width-1-3@s  uk-grid uk-margin-large-top " uk-height-match=".section-card">
-               <li>
-                  <div class="uk-card uk-card-default section-card">
-                     <div class="uk-card-media-top uk-padding-small uk-padding-remove-bottom">
-                        <img src="assets/img/wallet-travel.png" width="80" height="1200" alt="">
-                     </div>
-                     <div class="uk-card-body uk-padding-small">
-                        <h3 >Travels Insurance</h3>
-                        <p>Insurance policies may also include other benefits such as coverage for external factors.</p>
-                        <a href="#" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
-                     </div>
-                  </div>
-               </li>
-               <li >
-                  <div class="uk-card uk-card-default section-card">
-                     <div class="uk-card-media-top uk-padding-small uk-padding-remove-bottom">
-                        <img src="assets/img/train-car.png" width="80" height="1200" alt="">
-                     </div>
-                     <div class="uk-card-body uk-padding-small">
-                        <h3 >Vehicle Insurance</h3>
-                        <p>Insurance policies may also include other benefits such as coverage for external factors.</p>
-                        <a href="#" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
-                     </div>
-                  </div>
-               </li>
-               <li>
-                  <div class="uk-card uk-card-default section-card">
-                     <div class="uk-card-media-top uk-padding-small uk-padding-remove-bottom">
-                        <img src="assets/img/hand-heart.png" width="80" height="1200" alt="">
-                     </div>
-                     <div class="uk-card-body uk-padding-small">
-                        <h3 >Marriage Insurance</h3>
-                        <p>Insurance policies may also include other benefits such as coverage for external factors.</p>
-                        <a href="#" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
-                     </div>
-                  </div>
-               </li>
-               <li>
-                  <div class="uk-card uk-card-default section-card">
-                     <div class="uk-card-media-top uk-padding-small uk-padding-remove-bottom">
-                        <img src="assets/img/wallet-travel.png" width="80" height="1200" alt="">
-                     </div>
-                     <div class="uk-card-body uk-padding-small">
-                        <h3 >Travels Insurance</h3>
-                        <p>Insurance policies may also include other benefits such as coverage for external factors.</p>
-                        <a href="#" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
-                     </div>
-                  </div>
-               </li>
+      <div class="uk-position-relative uk-visible-toggle uk-slider uk-slider-container "  uk-slider="sets: true" >
+            <ul class="uk-slider-items uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-margin-top"  style="transform: translate3d(0px, 0px, 0px);" >
+                <li class="uk-padding-small">
+                    <div class="uk-card uk-card-default section-card">
+                        <div class="uk-card-media-top uk-padding-small uk-padding-remove-bottom">
+                            <img src="assets/img/wallet-travel.png" width="80" height="1200" alt="">
+                        </div>
+                        <div class="uk-card-body uk-padding-small">
+                            <h3 >Travels Insurance</h3>
+                            <p>Insurance policies may also include other benefits such as coverage for external factors.</p>
+                            <a href="service-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
+                    </div>
+                </li>
+                <li class="uk-padding-small">
+                    <div class="uk-card uk-card-default section-card">
+                        <div class="uk-card-media-top uk-padding-small uk-padding-remove-bottom">
+                            <img src="assets/img/train-car.png" width="80" height="1200" alt="">
+                        </div>
+                        <div class="uk-card-body uk-padding-small">
+                            <h3 >Vehicle Insurance</h3>
+                            <p>Insurance policies may also include other benefits such as coverage for external factors.</p>
+                            <a href="service-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
+                    </div>
+                </li>
+                <li class="uk-padding-small">
+                    <div class="uk-card uk-card-default section-card">
+                        <div class="uk-card-media-top uk-padding-small uk-padding-remove-bottom">
+                            <img src="assets/img/hand-heart.png" width="80" height="1200" alt="">
+                        </div>
+                        <div class="uk-card-body uk-padding-small">
+                            <h3 >Marriage Insurance</h3>
+                            <p>Insurance policies may also include other benefits such as coverage for external factors.</p>
+                            <a href="service-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
+                    </div>
+                </li>
+                <li class="uk-padding-small">
+                    <div class="uk-card uk-card-default section-card">
+                        <div class="uk-card-media-top uk-padding-small uk-padding-remove-bottom">
+                            <img src="assets/img/hand-heart.png" width="80" height="1200" alt="">
+                        </div>
+                        <div class="uk-card-body uk-padding-small">
+                            <h3 >Marriage Insurance</h3>
+                            <p>Insurance policies may also include other benefits such as coverage for external factors.</p>
+                            <a href="service-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
+                    </div>
+                </li>
             </ul>
-            <a class="uk-position-center-left uk-position-small uk-hidden-hover" href uk-slidenav-previous uk-slider-item="previous"></a>
-            <a class="uk-position-center-right uk-position-small uk-hidden-hover" href uk-slidenav-next uk-slider-item="next"></a>
-         </div>
-         <ul class="uk-slider-nav uk-dotnav uk-flex-center  uk-margin-large-top"></ul>
+            <a class="uk-position-center-left uk-position-small " href="#" uk-slidenav-previous uk-slider-item="previous"></a>
+            <a class="uk-position-center-right uk-position-small" href="#" uk-slidenav-next uk-slider-item="next"></a> 
+         <ul class="uk-slider-nav uk-dotnav uk-flex-center uk-margin"></ul>
       </div>
    </div>
 </section>
 <!-- END OF SERVICES -->
 
-<section class="uk-section section-padding-page">
+<section class="uk-section section-padding-">
     <div class="uk-container uk-about">
         <div class="uk-child-width-1-2@m uk-padding-small" uk-height-match="target: .about-content--two" uk-grid>
             <div class="about-content--two uk-flex uk-flex-column uk-flex-center pl-50">
@@ -199,42 +197,44 @@
     </div>
 </section>
 <!-- news and events section -->
-<section class="uk-section section-padding-page">
+<section class="uk-section section-padding">
     <div class="uk-container uk-text-center">
-        <h1>News & Events</h1>
-        <h2>Know More Updates About Us</h2>
-        <ul class=" uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-margin-large-top" uk-grid uk-height-match=".news-block"  >
-            <li >
-                <div class="news-block uk-text-left ">
-                    <img src="assets/img/news1.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+        <div class="uk-padding-small">
+            <h1>News & Events</h1>
+            <h2>Know More Updates About Us</h2>
+            <ul class="uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-margin-large-top" uk-grid uk-height-match=".news-block"  >
+                <li >
+                    <div class="news-block uk-text-left ">
+                        <img src="assets/img/news1.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-            <li>
-                <div class="news-block uk-text-left ">
-                    <img src="assets/img/news2.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                </li>
+                <li>
+                    <div class="news-block uk-text-left ">
+                        <img src="assets/img/news2.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-            <li>
-                <div class="news-block uk-text-left ">
-                <img src="assets/img/news3.png" alt="">
-                    <div class="news-content">
-                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                </li>
+                <li>
+                    <div class="news-block uk-text-left ">
+                    <img src="assets/img/news3.png" alt="">
+                        <div class="news-content">
+                            <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
+                            <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                        </div>
                     </div>
-                </div>
-            </li>
-        </ul>
+                </li>
+            </ul>
+        </div>
     </div> 
     <div class="uk-text-center">
         <a href="news.php" class="text-light uk-button uk-primary uk-margin-top">LEARN MORE</a>
@@ -242,7 +242,7 @@
 </section>
 <!--end of  news and events section -->
 <!-- ad section -->
-<section class="uk-section section-padding-page uk-container">
+<section class="uk-section section-padding uk-container">
     <div class="uk-container black-bg">
     <ul class=" uk-child-width-1-2@s  uk-padding  " uk-grid >
             <li class="uk-content-center">
@@ -250,7 +250,7 @@
                     <h2 style="color:white;">Save money on insurance with Cosmic Insurance Brokerage</h2>
                 </div>
                 <div class="uk-flex ">
-                    <div class="uk-margin-right"> <a href="" class="text-light uk-button uk-primary uk-margin-top">LEARN MORE</a></div>
+                    <div class="uk-margin-right"> <a href="contact.php" class="text-light uk-button uk-primary uk-margin-top">CONTACT US</a></div>
                     <div class="uk-margin-top ">
                         <p style="color:white; margin:0; font-size:20px !important; font-weight:500;">CALL US</p>
                         <p style="color:white; margin:0; font-size:18px !important; font-weight:500;">+123 456 789</p>
