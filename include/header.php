@@ -51,7 +51,7 @@
                            </a>
                         </div>
                         <div class="uk-navbar-right">
-                           <a href="#" class="uk-hidden@m nav-primary-button" >Payment</a>
+                           <a href="#modal-example"class="uk-hidden@m " uk-toggle uk-search-icon ></a>
                            <div class=" uk-visible@m  ">
                               <ul class="uk-navbar-nav">
                                  <li class="uk-active"><a href="index.php">HOME</a></li>
@@ -70,29 +70,30 @@
                                     </div>
                                  </li>
                                  <li>
-                                    <a href="contact.php">CONTACT</a>
+                                    <a href="news.php">NEWS</a>
                                  </li>
                                  <li>
-                                    <a href="#"><button class="nav-primary-button para-font">PAYMENT</button></a>
+                                    <a href="contact.php">CONTACT</a>
                                  </li>
-                                <!-- search -->
                                  <!-- <li>
-                                    <a class="uk-navbar-toggle navbar-button" href="#" uk-search-icon></a>
-                                    <div class="uk-navbar-dropdown uk-padding-small uk-margin-remove" uk-drop="mode: click;cls-drop: uk-navbar-dropdown;boundary: .navbar-container;boundary-align: true;pos: bottom-justify;flip: x">
-                                       <div class="uk-container">
-                                          <div class="uk-grid-small uk-flex-middle" uk-grid>
-                                             <div class="uk-width-expand">
-                                                <form class="uk-search uk-search-navbar uk-width-1-1 uk-navbar-search">
-                                                   <input class="uk-search-input" type="search" placeholder="Search…" autofocus>
-                                                </form>
-                                             </div>
-                                             <div class="uk-width-auto">
-                                                <a class="uk-navbar-dropdown-close" href="#" uk-close></a>
-                                             </div>
-                                          </div>
+                                    <a href="#"><button class="nav-primary-button para-font">PAYMENT</button></a>
+                                 </li> -->
+                                <!-- search -->
+                                 <li>
+                                    <a href="#modal-example"class="" uk-toggle uk-search-icon ></a>
+                                    <!-- This is the modal -->
+                                    <div id="modal-example" uk-modal>
+                                       <div class="uk-modal-dialog uk-modal-body uk-margin-top">
+                                       <button class="uk-modal-close-outside" type="button" uk-close></button>
+                                         
+                                          <form class="uk-search uk-search-default" style="width:100% important">
+                                             <span class="uk-search-icon-flip" uk-search-icon></span>
+                                             <input class="uk-search-input" type="search" placeholder="Search" aria-label="Search">
+                                          </form>
+                                         
                                        </div>
                                     </div>
-                                 </li> -->
+                                 </li>
                                  <!-- full-width-dropdown -->
                                  <!-- <li >
                                     <a href="speciality.php" >Specialities</a>
