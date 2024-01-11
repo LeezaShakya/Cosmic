@@ -17,7 +17,7 @@
                         <img src="assets/img/news1.png" alt="">
                         <div class="news-content">
                             <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
                             <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
                         </div>
                     </div>
@@ -27,7 +27,7 @@
                         <img src="assets/img/news2.png" alt="">
                         <div class="news-content">
                             <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
                             <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
                         </div>
                     </div>
@@ -37,7 +37,7 @@
                     <img src="assets/img/news3.png" alt="">
                         <div class="news-content">
                             <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
                             <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
                         </div>
                     </div>
@@ -47,7 +47,7 @@
                         <img src="assets/img/news1.png" alt="">
                         <div class="news-content">
                             <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
                             <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                         <img src="assets/img/news2.png" alt="">
                         <div class="news-content">
                             <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
                             <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
                         </div>
                     </div>
@@ -67,7 +67,7 @@
                     <img src="assets/img/news3.png" alt="">
                         <div class="news-content">
                             <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                            <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                            <h3><a href="news-inner.php">Insurance policies may also include other policies</a></h3>
                             <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
                         </div>
                     </div>

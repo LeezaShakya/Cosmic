@@ -42,7 +42,7 @@
             <!-- main  header-->
             <div>
                <nav class="uk-navbar-container  uk-sticky uk-sticky-fixed stroke shadow-lg"  uk-sticky="start: 100; animation: uk-animation-slide-top; sel-target: uk-navbar-container ; cls-active: uk-navbar-sticky scroll-nav; cls-inactive: uk-navbar-transparent ;" >
-                  <div class="uk-container uk-margin-small" >
+                  <div class="uk-container uk-margin-remove" >
                      <div uk-navbar=" dropbar: true ; target: !.uk-container-navbar; align: center; target-x: !.uk-navbar-container">
                         <div class="uk-navbar-left">
                            <button class="uk-navbar-toggle uk-hidden@m" uk-toggle="target: #nav-offcanvas" uk-navbar-toggle-icon></button>
