@@ -1,14 +1,14 @@
 <?php include('include/header.php') ?>
 <section class="uk-margin-large-top">
     <div class="uk-page--banner uk-section-padding uk-light">
-        <h2 class="uk-margin-small">DMV Insurance</h2>
+        <h2 >DMV Insurance</h2>
         <ul class="uk-breadcrumb uk-margin-small">
             <li class="text-light"><a href="index.php">Home</a></li>
             <li class="text-light"><a href="">Services</a></li>
         </ul>
     </div>
 </section>
-<section class="section-padding-e">
+<section class="section-padding-page">
     <div class="uk-container">
         <div class="uk-child-width-1-2@m uk-padding-small" uk-height-match="target: .about-content" uk-grid>
             <div class="about-content uk-flex uk-flex-column uk-flex-center">
@@ -19,7 +19,7 @@
             <div class="about-content uk-flex uk-flex-column uk-flex-center pl-50">
                 <h2>A small Fee for a BIG Convenience.</h2>
                 <p class="uk-margin-small-bottom">We all strive to provide “The Best” to our family to accomplish their dreams and aspirations and to ensure happiness at every stage of life. Sometimes we may have to say “No” due to financial constraints; wouldn’t it be great if we never had to say “No”?</p>
-                <ul class="uk-margin-small">
+                <ul >
                     <li><em>Age at Entry</em>&nbsp;: 16 years to 58 years<em> </em></li>
                     <li><em>Maximum Maturity Age</em>&nbsp;: 70 years</li>
                     <li><em>Terms of Policy</em>&nbsp;: 12 years to 20 years</li>
@@ -35,7 +35,7 @@
         </div>
     </div>
 </section>
-<section class="section-padding">
+<section class="section-padding-page">
     <div class="uk-container uk-position-relative">
         <div class="uk-padding-small ">
 
@@ -124,25 +124,25 @@
 
     </div>
 </section>
-<section class="section-padding">
+<section class="section-padding-page">
     <div class="uk-container">
         <div class="uk-padding-small about-content--three">
 
             <h2>Optional Benefits (Rider Benefits):</h2>
-            <ul class="uk-margin-medium-top uk-child-width-1-2@m uk-padding uk-padding-remove-vertical" uk-grid>
-                <li class="uk-margin-small">
-                    <div>
+            <ul class="uk-margin-large-top" >
+                <li>
+                    <div >
                         <p class="uk-text-bold uk-margin-small">Accidental Death Benefit (ADB) Only</p>
                         <p class="uk-margin-remove-top">This is a rider benefit which offers protection on occurrence of death or disability of the policyholder due to accident. This rider is to be offered as a package along with premium waiver rider. It can be taken with payment of an additional nominal premium per thousand. Total coverage amount under this benefits will be equal to basic sum assured or Maximum Rs. 1,00,00,000/- whichever is less. In case of permanent and total disability of the policyholder during the policy term caused by an accident the Rider Sum Assured will be paid to the policyholder in 120 equal monthly instalments and all future payable premium will be waived.</p>
                     </div>
                 </li>
-                <li class="uk-margin-small">
+                <li >
                     <div>
                         <p class="uk-text-bold uk-margin-small"> Accidental Death Benefit, Accidental Total Permanent Disability, Premium Waiver Benefit – ADB, TPD & PWB:</p>
                         <p class="uk-margin-remove-top">This is a rider benefit which offers protection on occurrence of death or disability of the policyholder due to accident. This rider is to be offered as a package along with premium waiver rider. It can be taken with payment of an additional nominal premium per thousand. Total coverage amount under this benefits will be equal to basic sum assured or Maximum Rs. 1,00,00,000/- whichever is less. In case of permanent and total disability of the policyholder during the policy term caused by an accident the Rider Sum Assured will be paid to the policyholder in 120 equal monthly instalments and all future payable premium will be waived.</p>
                     </div>
                 </li>
-                <li class="uk-margin-small">
+                <li >
                     <div>
                         <p class="uk-text-bold uk-margin-small">Critical Illness Benefit:</p>
                         <p class="uk-margin-remove-top">This is a Rider benefit. If the life assured is diagnosed with specific illness defined under this rider during the policy term, lump sum amount equal to basic sum assured or maximum up to Rs. 50,00,000 will be paid to the insured. Undermentioned criteria should be followed to have Critical Illness ; Entry age: Minimum 18, Maximum : 65, Policy maturity age: 70, Coverage: Minimum Rs.50, 000 ,Maximum : Rs. 50,00,000 , Policy Term : Minimum 5 Years to Maximum 20 years .</p>

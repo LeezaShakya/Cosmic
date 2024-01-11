@@ -8,7 +8,7 @@
         </ul>
     </div>
 </section>
-<section class="uk-section section-padding">
+<section class="uk-section section-padding-page">
     <div class="uk-container uk-about">
         <div class="uk-child-width-1-2@m uk-padding-small reverse" uk-height-match="target: .about-content" uk-grid>
             <div class="about-content uk-flex uk-flex-column uk-flex-center">
@@ -32,7 +32,7 @@
     </div>
 </section>
 
-<section class="uk-section section-padding">
+<section class="uk-section section-padding-page">
     <div class="uk-container uk-about">
         <div class="uk-child-width-1-2@m uk-padding-small" uk-height-match="target: .about-content--two" uk-grid>
             <div class="about-content--two uk-flex uk-flex-column uk-flex-center pl-50">
@@ -85,37 +85,37 @@
     </div>
 </section>
 
-<section class="uk-section section-padding">
+<section class="uk-section section-padding-page">
     <div class="uk-container uk-about">
-            <div class="about-content--three uk-flex uk-flex-column uk-flex-center uk-padding-small">
+            <div class="about-content--three uk-padding-small">
                 <h1>Achievement</h1>
                 <h2>We take pride in our achievements:</h2>
-                <ul class="uk-margin-top uk-child-width-1-2@m uk-padding uk-padding-remove-vertical" uk-grid>
-                    <li class="uk-margin-small">
+                <ul class="uk-child-width-1-2@m uk-padding uk-grid uk-grid-medium" uk-grid>
+                    <li>
                         <div>
                             <p class="uk-text-bold uk-margin-small">Long-standing reputation:</p>
                             <p class="uk-margin-remove-top">We have been in business for over 20 years and have built a solid reputation for providing high-quality insurance products and services.</p>
                         </div>
                     </li>
-                    <li class="uk-margin-small">
+                    <li>
                         <div>
                             <p class="uk-text-bold uk-margin-small">Experienced team:</p>
                             <p class="uk-margin-remove-top">We have been in business for over 20 years and have built a solid reputation for providing high-quality insurance products and services.</p>
                         </div>
                     </li>
-                    <li class="uk-margin-small">
+                    <li>
                         <div>
                             <p class="uk-text-bold uk-margin-small">Strong relationships with insurance providers:</p>
                             <p class="uk-margin-remove-top">We have been in business for over 20 years and have built a solid reputation for providing high-quality insurance products and services.</p>
                         </div>
                     </li>
-                    <li class="uk-margin-small">
+                    <li>
                         <div>
                             <p class="uk-text-bold uk-margin-small">High client satisfaction:</p>
                             <p class="uk-margin-remove-top">We have been in business for over 20 years and have built a solid reputation for providing high-quality insurance products and services.</p>
                         </div>
                     </li>
-                    <li class="uk-margin-small">
+                    <li>
                         <div>
                             <p class="uk-text-bold uk-margin-small">Long-standing reputation:</p>
                             <p class="uk-margin-remove-top">We have been in business for over 20 years and have built a solid reputation for providing high-quality insurance products and services.</p>
