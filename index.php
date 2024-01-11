@@ -82,9 +82,9 @@
 </section>
 
 <!-- SERVICES SECTION -->
-<section class="uk-section section-padding grey-bg">
+<section class="uk-section section-padding-page grey-bg">
    <div class="uk-container uk-text-center">
-      <h1>SERVICES</h1>
+      <h1>Services</h1>
       <h2>What We Are Offering</h2>
       <div class="uk-slider-container-offset" uk-slider>
          <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
@@ -146,7 +146,8 @@
    </div>
 </section>
 <!-- END OF SERVICES -->
-<section class="uk-section section-padding">
+
+<section class="uk-section section-padding-page">
     <div class="uk-container uk-about">
         <div class="uk-child-width-1-2@m uk-padding-small" uk-height-match="target: .about-content--two" uk-grid>
             <div class="about-content--two uk-flex uk-flex-column uk-flex-center pl-50">
@@ -198,47 +199,50 @@
     </div>
 </section>
 <!-- news and events section -->
-<section class="uk-section section-padding">
+<section class="uk-section section-padding-page">
     <div class="uk-container uk-text-center">
-        <h1>NEWS & EVENTS</h1>
+        <h1>News & Events</h1>
         <h2>Know More Updates About Us</h2>
-        <ul class=" uk-child-width-expand@m uk-margin-large-top" uk-grid uk-height-match=".news-block"  >
-            <li class="">
+        <ul class=" uk-child-width-1-1 uk-child-width-1-2@s uk-child-width-1-3@m uk-margin-large-top" uk-grid uk-height-match=".news-block"  >
+            <li >
                 <div class="news-block uk-text-left ">
-                <img src="assets/img/news1.png" alt="">
-                <div class="news-content">
-                    <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                    <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                </div>
+                    <img src="assets/img/news1.png" alt="">
+                    <div class="news-content">
+                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                    </div>
                 </div>
             </li>
-            <li class="uk-text-center">
+            <li>
                 <div class="news-block uk-text-left ">
-                <img src="assets/img/news2.png" alt="">
-                <div class="news-content">
-                    <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                    <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                </div>
+                    <img src="assets/img/news2.png" alt="">
+                    <div class="news-content">
+                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                    </div>
                 </div>
             </li>
-            <li class="uk-text-center  ">
+            <li>
                 <div class="news-block uk-text-left ">
                 <img src="assets/img/news3.png" alt="">
-                <div class="news-content">
-                    <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
-                    <h3><a href="#">Insurance policies may also include other policies</a></h3>
-                </div>
+                    <div class="news-content">
+                        <p class=" uk-margin-small"> <span uk-icon="icon: calendar" style="color: var(--secondary);"></span> Kathmandu, October 12th, 2023 </p>
+                        <h3><a href="#">Insurance policies may also include other policies</a></h3>
+                        <a href="news-inner.php" class="servives-button">Learn More<span uk-icon="icon: chevron-double-right"></span></a>
+                    </div>
                 </div>
             </li>
         </ul>
     </div> 
     <div class="uk-text-center">
-        <a href="" class="text-light uk-button uk-primary uk-margin-top">LEARN MORE</a>
+        <a href="news.php" class="text-light uk-button uk-primary uk-margin-top">LEARN MORE</a>
     </div>
 </section>
 <!--end of  news and events section -->
 <!-- ad section -->
-<section class="uk-section section-padding uk-container">
+<section class="uk-section section-padding-page uk-container">
     <div class="uk-container black-bg">
     <ul class=" uk-child-width-1-2@s  uk-padding  " uk-grid >
             <li class="uk-content-center">

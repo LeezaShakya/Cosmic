@@ -35,7 +35,7 @@
         </div>
     </div>
 </section>
-<section class="section-padding">
+<section class="section-padding-page">
     <div class="uk-container uk-position-relative">
         <div class="uk-padding-small ">
 
@@ -124,7 +124,7 @@
 
     </div>
 </section>
-<section class="section-padding">
+<section class="section-padding-page">
     <div class="uk-container">
         <div class="uk-padding-small about-content--three">
 

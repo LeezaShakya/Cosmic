@@ -8,7 +8,7 @@
         </ul>
     </div>
 </section>
-<section class="uk-section section-padding">
+<section class="uk-section section-padding-page">
     <div class="uk-container uk-about">
         <div class="uk-child-width-1-2@m uk-padding-small reverse" uk-height-match="target: .about-content" uk-grid>
             <div class="about-content uk-flex uk-flex-column uk-flex-center">
@@ -32,7 +32,7 @@
     </div>
 </section>
 
-<section class="uk-section section-padding">
+<section class="uk-section section-padding-page">
     <div class="uk-container uk-about">
         <div class="uk-child-width-1-2@m uk-padding-small" uk-height-match="target: .about-content--two" uk-grid>
             <div class="about-content--two uk-flex uk-flex-column uk-flex-center pl-50">
@@ -85,7 +85,7 @@
     </div>
 </section>
 
-<section class="uk-section section-padding">
+<section class="uk-section section-padding-page">
     <div class="uk-container uk-about">
             <div class="about-content--three uk-flex uk-flex-column uk-flex-center uk-padding-small">
                 <h1>Achievement</h1>
